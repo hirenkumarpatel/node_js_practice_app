@@ -1,0 +1,24 @@
+{
+  "name": "node_js_practice_app",
+  "version": "1.0.0",
+  "description": "sample practice App in Node js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirenkumarpatel/node_js_practice_app.git"
+  },
+  "author": "Hiren Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirenkumarpatel/node_js_practice_app/issues"
+  },
+  "homepage": "https://github.com/hirenkumarpatel/node_js_practice_app#readme"
+}
