@@ -1,3 +1,10 @@
+//module wrapper function
+// (funtion(exports,module,require,__dirname,__filename){
+
+// })  
+// this is main wrapper function that works in background arround person class
+//and we can use parameters as we already used to export person class
+
 //creating class
 class  Person{
     constructor(name,age){
